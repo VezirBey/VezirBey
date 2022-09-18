@@ -95,6 +95,10 @@
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31gpxxeohqrc7clbn7gk3qy7q2kq&cover_image=true&theme=default" /></div>  
 
+
+
+## Discord Profile
+<div align="center"><img src="https://lanyard.cnrad.dev/api/996488031932514394" /></div>
 <br/>  
 
 <div align="center">
