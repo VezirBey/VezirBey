@@ -116,3 +116,10 @@ If things goes well, this section should automatically be replaced by a list of 
 
 <br />
 
+## Discord Profile 
+<table><tr><td valign="top" width="33%">
+  
+<br />
+  
+[![Discord Presence](https://lanyard.cnrad.dev/api/996488031932514394?hideDiscrim=true)](https://discord.com/users/996488031932514394)
+  
