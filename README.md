@@ -120,5 +120,5 @@ If things goes well, this section should automatically be replaced by a list of 
  
 <br />
   
-[![Discord Presence](https://lanyard.cnrad.dev/api/996488031932514394?hideDiscrim=true)](https://discord.com/users/996488031932514394)
+[![Discord Presence](https://lanyard.cnrad.dev/api/996488031932514394?hideDiscrim=true&idleMessage=:SA)](https://discord.com/users/996488031932514394)
   
