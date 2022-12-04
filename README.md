@@ -120,5 +120,5 @@ If things goes well, this section should automatically be replaced by a list of 
  
 <br />
   
-[![Discord Presence](https://lanyard.cnrad.dev/api/996488031932514394?hideDiscrim=false&idleMessage=I'm Either Busy Right Now Or I am lying down)](https://discord.com/users/996488031932514394)
+[![Discord Presence](https://lanyard.cnrad.dev/api/996488031932514394?hideDiscrim=false&idleMessage=I'm%20Either%20Busy%20Right%20Now%20Or%20I%20am%20lying%20down)](https://discord.com/users/996488031932514394)
   
